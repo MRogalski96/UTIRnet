@@ -15,7 +15,8 @@ UTIRnet is a supervised universal convolutional neural network for twin-image ef
 Follow the steps in main_example.m code to generate synthetic training data and then to train UTIRnet network for a specified system parameters (wavelength, pixel size, magnification, sample-focus plane distance (or sample-camera distance in lensless DIHM system)). Then, generated network (composed from CNN_A and CNN_P networks) along with AS propagation may be used to reconstruct holograms without twin-image effect. 
 
 # Experimental data
-Our experimental data (holograms and reference reconstructions) may be found at: ...
+Our experimental data (holograms and reference reconstructions) may be found at: <br>
+M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo, and M. Trusiak, “Physics-driven universal twin-image removal network for digital in-line holographic microscopy - dataset,” Jun. 2023, doi: 10.5281/ZENODO.8059636.
 
 # Cite as
 M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo and M. Trusiak, "Physics-driven universal twin-image removal network for digital in-line holographic microscopy", Submitted 2023
