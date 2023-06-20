@@ -1,1 +1,4 @@
-Holograms and reference reconstructions may be downloaded at ...
+Holograms and reference reconstructions may be downloaded at:
+Our experimental data (holograms and reference reconstructions) may be found at:
+M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo, and M. Trusiak, “Physics-driven universal twin-image removal network for digital in-line holographic microscopy - dataset,” Jun. 2023, doi: 10.5281/ZENODO.8059636.
+https://zenodo.org/record/8059636
