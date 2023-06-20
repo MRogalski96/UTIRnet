@@ -16,7 +16,8 @@ Follow the steps in main_example.m code to generate synthetic training data and 
 
 # Experimental data
 Our experimental data (holograms and reference reconstructions) may be found at: <br>
-M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo, and M. Trusiak, “Physics-driven universal twin-image removal network for digital in-line holographic microscopy - dataset,” Jun. 2023, doi: 10.5281/ZENODO.8059636.
+M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo, and M. Trusiak, “Physics-driven universal twin-image removal network for digital in-line holographic microscopy - dataset,” Jun. 2023, doi: 10.5281/ZENODO.8059636. <br>
+https://zenodo.org/record/8059636
 
 # Cite as
 M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo and M. Trusiak, "Physics-driven universal twin-image removal network for digital in-line holographic microscopy", Submitted 2023
