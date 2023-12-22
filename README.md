@@ -20,7 +20,7 @@ M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo, and M. Trusiak, “Physic
 https://zenodo.org/record/8059636
 
 # Cite as
-M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo and M. Trusiak, "Physics-driven universal twin-image removal network for digital in-line holographic microscopy", Submitted 2023
+M. Rogalski, P. Arcab, L. Stanaszek, V. Micó, C. Zuo, and M. Trusiak, “Physics-driven universal twin-image removal network for digital in-line holographic microscopy,” Opt. Express, vol. 32, no. 1, p. 742, Jan. 2024, doi: 10.1364/OE.505440.
 
 # Created by
 Mikołaj Rogalski, <br>
