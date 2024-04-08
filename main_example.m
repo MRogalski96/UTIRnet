@@ -54,8 +54,8 @@ pth = 'D:\...\flowers'; % ###############
 % Generate dataset as in "Dataset generation" section or load previously 
 % generated dataset ################################
 
-% Creating net architecture
-lgraph = NetworkArchitecture(70,2,512,1,1);
+% Load network architecture (for 512x512 px image size)
+load('NetworkArchitecture.mat')
 
 % Number of input images
 imgN = size(inTrAmp,4); 
